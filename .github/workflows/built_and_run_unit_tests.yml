@@ -1,4 +1,4 @@
-name: Built and run unot tests
+name: Built and run unit tests
 
 on:
   push:
